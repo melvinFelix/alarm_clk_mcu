@@ -1,6 +1,3 @@
-# alarm_clk_mcu
-alarm clock using Atmega16,rtc ...etc
-atmega 16
-LCD
-
-
+# Alarm Clock using MCU
+using Atmega16, RTC etc.
+`source code` for a basic implementation of a clock using RTC.
